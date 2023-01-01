@@ -15,7 +15,7 @@
 | ------ | ------ | ------ |
 | Product Assistant | [web2cap/foodgram-project-react](https://github.com/web2cap/foodgram-project-react) | [foodgram.zapto.org](https://foodgram.zapto.org/) | 
 | FastAPI Quick Start | [web2cap/qsfastapi](https://github.com/web2cap/qsfastapi) | | 
-| API for System of reviews and ratings | [web2cap/yamdb_final](https://github.com/web2cap/yamdb_final) | |
+| API for System of reviews and ratings | [web2cap/yamdb_final](https://github.com/web2cap/yamdb_final) | [yambd.w2c.net.eu.org/api/v1/](https://yambd.w2c.net.eu.org/api/v1/) |
 | API for Bloggers Social Network | [web2cap/api_final_yatube](https://github.com/web2cap/api_final_yatube) | |
 | Bloggers Social Network | [web2cap/hw05_final](https://github.com/web2cap/hw05_final) | |
 
