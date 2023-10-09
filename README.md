@@ -11,13 +11,12 @@
  - Docker, NGINX, Gunicorn
  
 ## My projects:
-| Name | Repo | Demo |
-| ------ | ------ | ------ |
-| Product Assistant | [web2cap/foodgram-project-react](https://github.com/web2cap/foodgram-project-react) | [food.w2c.net.eu.org](https://food.w2c.net.eu.org/) | 
-| FastAPI Quick Start | [web2cap/qsfastapi](https://github.com/web2cap/qsfastapi) | | 
-| API for System of reviews and ratings | [web2cap/yamdb_final](https://github.com/web2cap/yamdb_final) | [yambd.w2c.net.eu.org/api/v1/](https://yambd.w2c.net.eu.org/api/v1/) |
-| Website and API for Bloggers Social Network | [web2cap/api_final_yatube](https://github.com/web2cap/api_final_yatube) | [blog.w2c.net.eu.org/](https://blog.w2c.net.eu.org/) <br /> [blog.w2c.net.eu.org/api/v1/](https://blog.w2c.net.eu.org/api/v1/) |
-
+| Name | Repo |
+| ------ | ------ |
+| Product Assistant | [web2cap/foodgram-project-react](https://github.com/web2cap/foodgram-project-react) |
+| FastAPI Quick Start | [web2cap/qsfastapi](https://github.com/web2cap/qsfastapi) |
+| API for System of reviews and ratings | [web2cap/yamdb_final](https://github.com/web2cap/yamdb_final) |
+| Website and API for Bloggers Social Network | [web2cap/api_final_yatube](https://github.com/web2cap/api_final_yatube) |
 
 #### archived projects:
 | Name | Repo | 
