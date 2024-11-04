@@ -4,15 +4,18 @@
 
  - Python
  - Django and DRF
+ - FastAPI
  - Postgres and PostGIS
+ - Grafana, Prometheus
+ - Docker, NGINX, Gunicorn
  - OSM
  - Beautiful Soup
  - HTML, CSS, JS and Bootstrap
- - Docker, NGINX, Gunicorn
  
 ## My projects:
-| Name | Repo |
-| ------ | ------ |
+| Name | Repo | Web |
+| ------ | ------ |  ------ |
+| Community-driven geo-tourism project | [web2cap/osm2you](https://github.com/web2cap/osm2you) | [osm.w2c.net.eu.org](https://osm.w2c.net.eu.org/)
 | Product Assistant | [web2cap/foodgram-project-react](https://github.com/web2cap/foodgram-project-react) |
 | FastAPI Quick Start | [web2cap/qsfastapi](https://github.com/web2cap/qsfastapi) |
 | API for System of reviews and ratings | [web2cap/yamdb_final](https://github.com/web2cap/yamdb_final) |
