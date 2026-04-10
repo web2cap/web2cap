@@ -1,4 +1,4 @@
-# Welcome! I'm looking for new projects!  👋
+# Welcome! 👋
 
 ## My stack:
 
